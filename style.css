@@ -1,0 +1,67 @@
+.btn{
+    width: 50px;
+    height: 50px;
+    margin: 0 7.5px;
+    text-align: center;
+    color: pink;
+    background-color: palevioletred;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.btn:hover{
+    background-color: gray;
+}
+
+#btn-c{
+    width: 190px;
+}
+
+#btn-icon{
+    width: 120px;
+}
+
+main{
+    background-color: pink;
+    width: 400px;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+
+body{
+    background-color:palevioletred
+}
+
+
+.display{
+    display: flex;
+}
+
+#displayContent{
+    background-color: gray;
+    color: black;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+    padding: 10px;
+    width: 258px;
+    height: 50px;
+    border: 1px solid palevioletred;
+    text-align: right;
+    
+}
+
+.btn-container{
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+
+
